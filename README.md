@@ -79,3 +79,8 @@ Your final report should include each of the following:
 ### Scores by School Type
 
 * Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
+
+
+### Observal Trends
+1) When the number of students in school becomes large the scores become lower. Though the average score and % Passing are almost same for small and medium schools, % Overall Passing rate is almost 20% lower for large school when compared to medium size school.
+2) The average spending per student inversely correlated with the score. When spending ranges (per student) is in the highest range, the % of overall passing rate is smallest among another spending ranges.  
